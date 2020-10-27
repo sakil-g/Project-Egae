@@ -28,3 +28,9 @@
     background-size: cover;
     height: 100vh;
 }
+
+h2 {
+    font-size: 28.5px;
+    color: white;
+    font-weight: bold;
+}
