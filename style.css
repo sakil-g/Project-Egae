@@ -29,8 +29,13 @@
     height: 100vh;
 }
 
+<<<<<<< HEAD
 h2 {
     font-size: 28.5px;
     color: white;
     font-weight: bold;
+=======
+h1, p{
+    color: white;
+>>>>>>> e873fc86b97b41e88baaddf85f18b9e7e5bbcd0c
 }
