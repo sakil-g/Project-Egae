@@ -6,19 +6,19 @@
 .home .banner {
     position: absolute;
     top: 0;
-    width: 25%;
+    width: 40%;
     text-align: center;
     margin: 0;
 }
 
 #col1 {
-    background-image: url(images/image-1-egae-1000x1800.jpg);
+    background-image: url(images/image-2-egae-926x1800.jpg);
     background-size: cover;
     height: 100vh;
 }
 
 #col2 {
-    background-image: url(images/image-2-egae-926x1800.jpg);
+    background-image: url(images/image-1-egae-1000x1800.jpg);
     background-size: cover;
 }
 
