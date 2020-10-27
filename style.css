@@ -20,9 +20,11 @@
 #col2 {
     background-image: url(images/image-1-egae-1000x1800.jpg);
     background-size: cover;
+    height: 100vh;
 }
 
 #col3 {
     background-image: url(images/Asite_couv21.jpg);
     background-size: cover;
+    height: 100vh;
 }
