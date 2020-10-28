@@ -6,6 +6,8 @@ h2 {
 
 p {
     color: white;
+    font-style: italic;
+    font-size: 15px;
 }
 
 /* Séparation */
@@ -33,6 +35,10 @@ p {
     background-size: cover;
     height: 100vh;
     z-index: 1;
+}
+
+#contenu1 {
+    height: 62vh;
 }
 
 /* contenu col 2 */
