@@ -10,6 +10,9 @@ p {
     font-size: 15px;
 }
 
+
+
+
 /* Séparation */
 .my-4{
     width:22px;
@@ -27,6 +30,10 @@ p {
     background-color: white;
     position: static;
 }
+/* Position du logo */
+#navbar {
+    margin: -13px;
+}
 
 /* contenu col 1*/
 #col1 {
@@ -38,7 +45,7 @@ p {
 }
 
 #contenu1 {
-    height: 70vh;
+    height: 75vh;
 }
 
 /* contenu col 2 */
