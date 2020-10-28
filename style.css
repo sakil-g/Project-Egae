@@ -55,3 +55,8 @@ p {
     height: 100vh;
 }
 
+.hungryfeed_items{
+    overflow: auto;
+    height: 100vh;
+}
+
