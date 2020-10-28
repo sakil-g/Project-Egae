@@ -10,6 +10,9 @@ p {
     font-size: 15px;
 }
 
+
+
+
 /* Séparation */
 .my-4{
     width:22px;
@@ -27,6 +30,10 @@ p {
     background-color: white;
     position: static;
 }
+/* Position du logo */
+#navbar {
+    margin: -13px;
+}
 
 /* contenu col 1*/
 #col1 {
@@ -38,8 +45,29 @@ p {
 }
 
 #contenu1 {
-    height: 70vh;
+    height: 75vh;
 }
+
+ /*********************Responsive*************************/
+
+  
+ @media all and (max-width:490px){
+    
+    #col1 , #col2 , #col3 {
+        height: 500px;
+    }
+
+    .navbar{
+        background-color: white;
+        height: 30%;
+    }
+
+    .navbar img{
+        padding:0;
+        width:200px;
+        height: 80px;
+    }
+  }
 
 /* contenu col 2 */
 #col2 {
@@ -55,6 +83,7 @@ p {
     height: 100vh;
 }
 
+/* contenu col 4*/
 .hungryfeed_items{
     overflow: auto;
     height: 100vh;
