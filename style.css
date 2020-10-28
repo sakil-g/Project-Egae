@@ -10,8 +10,9 @@ p {
     font-size: 15px;
 }
 
-
-
+span {
+    color: black;
+}
 
 /* Séparation */
 .my-4{
