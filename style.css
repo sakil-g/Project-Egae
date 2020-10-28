@@ -59,15 +59,22 @@ p {
 
     .navbar{
         background-color: white;
-        height: 30%;
-        width: 100px;
+        height: 20%;
+        width: 500px;
+        margin-left: -40px;
     }
 
     .navbar img{
         padding:0;
-        width:200px;
+        width:250px;
         height: 80px;
     }
+
+    #logo {
+        margin-left: 40px;
+        width: 50%%;
+    }
+
   }
 
 /* contenu col 2 */
