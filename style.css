@@ -48,6 +48,27 @@ p {
     height: 75vh;
 }
 
+ /*********************Responsive*************************/
+
+  
+ @media all and (max-width:490px){
+    
+    #col1 , #col2 , #col3 {
+        height: 500px;
+    }
+
+    .navbar{
+        background-color: white;
+        height: 30%;
+    }
+
+    .navbar img{
+        padding:0;
+        width:200px;
+        height: 80px;
+    }
+  }
+
 /* contenu col 2 */
 #col2 {
     background-image: linear-gradient(transparent, rgba(0,0,0,2)), url(images/image-1-egae-1000x1800.jpg);
