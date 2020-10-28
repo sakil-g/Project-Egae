@@ -35,3 +35,10 @@ h2 {
     color: white;
     font-weight: bold;
 }
+
+.hungryfeed_items{
+    
+    height: 100vh;
+    overflow: scroll;
+    background-size: cover;
+}
